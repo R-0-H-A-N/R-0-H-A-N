@@ -11,6 +11,7 @@ I am a Computer Scinece Student at Krea University
   </a>
 </div>
 
+<!-- 
 <p></p>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,3 +21,5 @@ I am a Computer Scinece Student at Krea University
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R-0-H-A-N&repo=python_file_bot&theme=midnight-purple&show_owner=false" />
   </a>
 </div>
+-->
+
