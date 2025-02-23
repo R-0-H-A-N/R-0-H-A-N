@@ -1,6 +1,6 @@
 ### Hey there!
 
-I am a Computer Scinece Student at Krea University
+I am a Computer Science Student at Krea University
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
